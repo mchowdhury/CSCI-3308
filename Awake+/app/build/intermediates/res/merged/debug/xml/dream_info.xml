@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dream xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.android.deskclock.ScreensaverSettingsActivity"
+    />
+<!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/xml/dream_info.xml -->
