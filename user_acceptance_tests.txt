@@ -1,1 +1,37 @@
 Awake+ App User Acceptance Testing Framework
+
+Acceptance Test 1: Alarm Functionality
+
+Test Case ID: Alarm1					Test Designed By: Justin Schiller
+Test Priority: High						Test Designed Date: 11/10/15
+Module Name: Alarm						Test Executed By:
+Test Title:	Alarm Functionality			Test Executed Date:
+Description: User should be able to set, modify, snooze, and turn off alarm clockS
+
+
+Acceptance Test 2: Awarding Points
+
+Test Case ID: Points1					Test Designed By: Justin Schiller
+Test Priority: High						Test Designed Date: 11/10/15
+Module Name: Award Points				Test Executed By:
+Test Title:	Awarding Points		 		Test Executed Date:
+Description: User should be awarded 5 points for not hitting snooze, 1 point for hitting snooze once, and 0 points for hitting snooze multiple times.
+			 
+
+
+Acceptance Test 3: Browsing and Redeeming Rewards
+
+Test Case ID: Reward1					Test Designed By: Justin Schiller
+Test Priority: Medium					Test Designed Date: 11/10/15
+Module Name: Rewards					Test Executed By:
+Test Title:	Redeeming Rewards			Test Executed Date:
+Description: User should be able to browse rewards in app and redeem points in exchange for them. Points should decrease when spent.
+
+
+Acceptance Test 4: Retaining Points
+
+Test Case ID: Points2					Test Designed By: Justin Schiller
+Test Priority: Medium					Test Designed Date: 11/10/15
+Module Name: Points						Test Executed By:
+Test Title: Retaining Points			Test Executed Date:
+Description: Points should be retained by the app upon phone shut down and app closing.
