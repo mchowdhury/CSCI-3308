@@ -51,7 +51,7 @@ public class testFunction {
     public boolean getIsNewDay(){
         return isnewDay;
     }
-    public boolean getTotalPoints(){
+    public int getTotalPoints(){
         return totalpoints;
     }
 }
