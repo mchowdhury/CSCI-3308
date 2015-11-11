@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-sw360dp-v23/dimens.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-sw360dp-v23/dimens.xml -->
     <eat-comment/>
     <dimen name="widget_label_font_size">10dp</dimen>
 </resources>

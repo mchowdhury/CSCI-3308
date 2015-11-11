@@ -19,4 +19,4 @@
     android:id="@+id/main"
     android:name="com.android.deskclock.ScreensaverSettingsActivity$PrefsFragment"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" /><!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/layout/screensaver_settings.xml -->
+    android:layout_height="match_parent" /><!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/layout/screensaver_settings.xml -->

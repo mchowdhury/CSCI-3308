@@ -23,4 +23,4 @@
         android:pathData="M 12,12 c 0,0.16667 0,1 0,1 l 0,-1 "
         android:interpolator="@interpolator/ic_stopwatch_button_translatex_interpolator" />
 </set>
-<!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/animator/ic_stopwatch_animation_button.xml -->
+<!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/animator/ic_stopwatch_animation_button.xml -->

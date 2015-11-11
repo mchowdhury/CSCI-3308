@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-land/values-land.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-land/values-land.xml -->
     <eat-comment/>
     <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
     <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
@@ -8,7 +8,7 @@
     <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
     <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-land/dimens.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-land/dimens.xml -->
     <eat-comment/>
     <dimen name="actionbar_tab_padding">32dip</dimen>
     <dimen name="alarm_alert_clock_padding_left">32dp</dimen>
@@ -22,28 +22,28 @@
     <dimen name="clock_fragment_end_padding">0dip</dimen>
     <dimen name="clock_side_padding">32dip</dimen>
     <dimen name="date_text_size">15sp</dimen>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-land/values-land.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-land/values-land.xml -->
     <eat-comment/>
     <dimen name="dialog_height">200dip</dimen>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-land/dimens.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-land/dimens.xml -->
     <eat-comment/>
     <dimen name="dialpad_digit_padding">14dip</dimen>
     <dimen name="dialpad_font_size">24sp</dimen>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-land/values-land.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-land/values-land.xml -->
     <eat-comment/>
     <dimen name="left_side_width">250dip</dimen>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-land/dimens.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-land/dimens.xml -->
     <eat-comment/>
     <dimen name="main_clock_bottom_margin">80dip</dimen>
     <dimen name="main_clock_padding">0dp</dimen>
     <dimen name="medium_font_size">48sp</dimen>
     <dimen name="next_alarm_text_size">15sp</dimen>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-land/values-land.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-land/values-land.xml -->
     <eat-comment/>
     <dimen name="selected_date_day_size">100dp</dimen>
     <dimen name="selected_date_month_size">30dp</dimen>
     <dimen name="selected_date_year_size">30dp</dimen>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-land/dimens.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-land/dimens.xml -->
     <eat-comment/>
     <dimen name="stopwatch_circle_margin_bottom">80dip</dimen>
     <dimen name="stopwatch_list_bottom_spacing">0dip</dimen>

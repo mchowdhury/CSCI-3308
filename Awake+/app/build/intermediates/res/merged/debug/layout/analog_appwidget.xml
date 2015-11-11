@@ -21,4 +21,4 @@
     android:hand_minute="@drawable/appwidget_clock_minute"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
-<!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/layout/analog_appwidget.xml -->
+<!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/layout/analog_appwidget.xml -->

@@ -16,4 +16,4 @@
 <View xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:background="@color/transparent"
-    android:layout_height="@dimen/button_footer_height" /><!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/layout/blank_footer_view.xml -->
+    android:layout_height="@dimen/button_footer_height" /><!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/layout/blank_footer_view.xml -->
