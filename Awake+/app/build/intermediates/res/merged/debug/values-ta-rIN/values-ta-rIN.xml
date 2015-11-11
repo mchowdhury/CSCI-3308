@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string-array name="alarm_set">
     <item msgid="6450913786084215050">"இப்போதிலிருந்து 1 நிமிடத்திற்கும் குறைவான நேரத்தில் அலாரம் அமைக்கப்பட்டது."</item>
@@ -21,7 +21,7 @@
     <item msgid="7809240121716151904">"25 நிமிடங்கள்"</item>
     <item msgid="4278641338024561333">"எப்போதும் வேண்டாம்"</item>
   </string-array>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/array.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/array.xml -->
     <eat-comment/>
     <string-array name="cities_names">
     <item msgid="4653806289288974388">"அ<ns1:g id="SEPARATOR">=</ns1:g>அபிட்ஜான்"</item>
@@ -325,7 +325,7 @@
     <item msgid="7317049454800260290">"கு<ns1:g id="SEPARATOR">=</ns1:g>குய்டொ"</item>
     <item msgid="4524380876433343244">"ல<ns1:g id="SEPARATOR">=</ns1:g>லியூப்லியனா"</item>
   </string-array>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string-array name="clock_style_entries">
     <item msgid="917900462224167608">"அனலாக்"</item>
@@ -498,7 +498,7 @@
       <item quantity="other">நிமிடங்கள்</item>
       <item quantity="one">நிமிடம்</item>
     </plurals>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ta-rIN/values-ta-rIN.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ta-rIN/values-ta-rIN.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"முகப்பிற்கு வழிசெலுத்து"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -519,7 +519,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"இதனுடன் பகிர்"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s உடன் பகிர்"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"சுருக்கு"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string msgid="5976616107390962899" name="add_alarm">"அலாரத்தைச் சேர்"</string>
     <string msgid="3272183025444682500" name="alarm_alert_dismiss_now_text">"இப்போது நிராகரி"</string>
@@ -574,20 +574,20 @@
     <string msgid="2194676418924016327" name="control_set_alarm">"அலாரத்தை அமை"</string>
     <string msgid="3477418548382111184" name="custom_ringtone">"தனிப்பயன் ரிங்டோன்"</string>
     <string msgid="971998564991636532" name="day_concat">", "</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
     <eat-comment/>
     <string msgid="3968620852217927702" name="day_picker_description">"நாட்களின் மாதக் கட்டம்"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string msgid="5590025289805630372" name="default_label">"அலாரம்"</string>
     <string msgid="4549726190682964245" name="default_ringtone_setting_title">"இயல்பு ரிங்டோனை அமை"</string>
     <string msgid="5732434972457000541" name="delete">"நீக்கு"</string>
     <string msgid="3457780990646206817" name="delete_alarm">"அலாரத்தை நீக்கு"</string>
     <string msgid="6578572637340860840" name="delete_alarm_confirm">"இந்த அலாரத்தை நீக்கவா?"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
     <eat-comment/>
     <string msgid="6908431551612331381" name="deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> நீக்கப்பட்டது"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string msgid="1220848140260509437" name="deleted_message">"நீக்கப்பட்டது"</string>
     <string msgid="1841309486023845685" name="description_direction_both">"உறக்கநிலையாக்க இடதுபுறம் அல்லது விலக்க வலதுபுறம் ஸ்வைப் செய்யவும்"</string>
@@ -598,10 +598,10 @@
     <string msgid="5889378670229554109" name="disable_alarm">"அலாரத்தை முடக்கு"</string>
     <string msgid="7204593078688533541" name="dismiss_alarm">"அலாரத்தை விலக்கு"</string>
     <string msgid="6509722361933858451" name="done">"முடிந்தது"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
     <eat-comment/>
     <string msgid="7007948707597430919" name="done_label">"முடிந்தது"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string msgid="1834599140632142536" name="enable_alarm">"அலாரத்தை இயக்கு"</string>
     <string msgid="4100909974923444602" name="every_day">"ஒவ்வொரு நாளும்"</string>
@@ -613,19 +613,19 @@
     <string msgid="4436139365695453870" name="home_label">"தாய்நாடு"</string>
     <string msgid="9199730676287974501" name="home_time_zone">"தாய்நாட்டின் நேரமண்டலம்"</string>
     <string msgid="807894493443834624" name="home_time_zone_title">"தாய்நாட்டின் நேரமண்டலம்"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
     <eat-comment/>
     <string msgid="7586639618712934060" name="hour_picker_description">"மணிநேர வட்ட வடிவ ஸ்லைடர்"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string msgid="3393478155635368097" name="hours_label">"ம"</string>
     <string msgid="8652842524970971830" name="hours_label_description">"மணிநேரம்"</string>
     <string msgid="2782334750243998633" name="invalid_time">"தவறான நேரம் <ns1:g id="INVALID_HOUR">%d</ns1:g>:<ns1:g id="INVALID_MINUTES">%d</ns1:g> <ns1:g id="INVALID_AMPM">%s</ns1:g>"</string>
     <string msgid="3104567893212932487" name="invalid_timer_length">"தவறான டைமர் நீளம்"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
     <eat-comment/>
     <string msgid="2674929164900463786" name="item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> தேர்ந்தெடுக்கப்பட்டது"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string msgid="162189613902857319" name="label">"லேபிள்"</string>
     <string msgid="8736179296142915727" name="label_description">"லேபிள்"</string>
@@ -641,10 +641,10 @@
     <string msgid="1762931290495104106" name="menu_item_sort_by_name">"அகர வரிசையில்"</string>
     <string msgid="3396117705293574701" name="menu_stopwatch">"நிறுத்தக்கடிகாரம்"</string>
     <string msgid="6459070074762877114" name="menu_timer">"டைமர்"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
     <eat-comment/>
     <string msgid="6024811202872705251" name="minute_picker_description">"நிமிடத்திற்கான வட்டவடிவ ஸ்லைடர்"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string msgid="3568098128251438588" name="minutes_label">"நி"</string>
     <string msgid="965686733490357796" name="minutes_label_description">"நிமிடங்கள்"</string>
@@ -674,13 +674,13 @@
     <string msgid="7013450738357352801" name="screensaver_settings">"இயக்க அமைப்பு"</string>
     <string msgid="124655952824003246" name="seconds_label">"வி"</string>
     <string msgid="3821620053141299692" name="seconds_label_description">"வினாடிகள்"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
     <eat-comment/>
     <string msgid="3973338219107019769" name="select_day">"மாதம் மற்றும் தேதியைத் தேர்ந்தெடுக்கவும்"</string>
     <string msgid="7651068754188418859" name="select_hours">"மணிநேரத்தைத் தேர்ந்தெடுக்கவும்"</string>
     <string msgid="8327182090226828481" name="select_minutes">"நிமிடத்தைத் தேர்ந்தெடுக்கவும்"</string>
     <string msgid="2603330600102539372" name="select_year">"ஆண்டைத் தேர்ந்தெடுக்கவும்"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string msgid="3607479399424246605" name="selected_cities_label">"தேர்ந்தெடுத்த நகரங்கள்"</string>
     <string msgid="9148359866152726808" name="set_alarm">"அலாரத்தை அமை"</string>
@@ -689,10 +689,10 @@
     <string msgid="8605302849408279221" name="silent_alarm_summary">"நிசப்தம்"</string>
     <string msgid="2077577763821006919" name="slash">"/"</string>
     <string msgid="1097309861110780483" name="snooze_duration_title">"உறக்கநிலையின் காலஅளவு"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ta-rIN/values-ta-rIN.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ta-rIN/values-ta-rIN.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string msgid="6598258908106423672" name="stopwatch_already_running">"ஸ்டாப்வாட்ச் இயங்கிக்கொண்டிருக்கிறது"</string>
     <string msgid="5713134605500796186" name="stopwatch_cant_be_reset_because_is_running">"ஸ்டாப்வாட்ச் இயங்குவதால் அதை மீட்டமைக்க முடியாது"</string>
@@ -755,10 +755,10 @@
     <string msgid="8648842975829470646" name="weekday_time_format_12_mode">"EEE, h:mm a"</string>
     <string msgid="152964494051478631" name="weekday_time_format_24_mode">"EEE, k:mm"</string>
     <string msgid="5911196322328341288" name="world_day_of_week_label">"/ <ns1:g id="LABEL">%s</ns1:g>"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-ta-rIN/values-ta-rIN.xml -->
     <eat-comment/>
     <string msgid="6963340404644587098" name="year_picker_description">"ஆண்டு பட்டியல்"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-ta-rIN/strings.xml -->
     <eat-comment/>
     <string msgid="7102083421938355017" name="zero">"0"</string>
 </resources>

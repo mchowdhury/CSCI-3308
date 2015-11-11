@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="ampm_text_color">#8c8c8c</color>
     <color name="blue">#33b5e5</color>
@@ -26,7 +26,7 @@
     <color name="red">#ff3333</color>
     <color name="red_focused">#853333</color>
     <color name="transparent_black">#7f000000</color>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="ampm_label_size">16sp</dimen>
     <dimen name="ampm_left_padding">6dip</dimen>
@@ -59,7 +59,7 @@
     <item format="float" name="ampm_circle_radius_multiplier" type="string">0.19</item>
     <item format="float" name="circle_radius_multiplier" type="string">0.82</item>
     <item format="float" name="circle_radius_multiplier_24HourMode" type="string">0.85</item>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="day_of_week_label_typeface">sans-serif</string>
     <string name="day_picker_description">Month grid of days</string>
@@ -68,12 +68,12 @@
     <string name="hour_picker_description">Hours circular slider</string>
     <string name="item_is_selected"><ns1:g example="2013" id="item">%1$s</ns1:g> selected</string>
     <string name="minute_picker_description">Minutes circular slider</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <item format="float" name="numbers_radius_multiplier_inner" type="string">0.60</item>
     <item format="float" name="numbers_radius_multiplier_normal" type="string">0.81</item>
     <item format="float" name="numbers_radius_multiplier_outer" type="string">0.83</item>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="radial_numbers_typeface">sans-serif</string>
     <string name="sans_serif">sans-serif</string>
@@ -81,18 +81,18 @@
     <string name="select_hours">Select hours</string>
     <string name="select_minutes">Select minutes</string>
     <string name="select_year">Select year</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <item format="float" name="selection_radius_multiplier" type="string">0.16</item>
     <item format="float" name="text_size_multiplier_inner" type="string">0.14</item>
     <item format="float" name="text_size_multiplier_normal" type="string">0.17</item>
     <item format="float" name="text_size_multiplier_outer" type="string">0.11</item>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="time_placeholder">--</string>
     <string name="time_separator">:</string>
     <string name="year_picker_description">Year list</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/android-opt-datetimepicker/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="ampm_label">
         <item name="android:textSize">@dimen/ampm_label_size</item>

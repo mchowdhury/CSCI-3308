@@ -120,4 +120,4 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/digital_widget_city_margin_bottom">
     </FrameLayout>
-</LinearLayout><!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/layout/world_clock_remote_list_item.xml -->
+</LinearLayout><!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/layout/world_clock_remote_list_item.xml -->

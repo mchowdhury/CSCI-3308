@@ -20,4 +20,4 @@
     android:propertyName="alpha"
     android:interpolator="@android:interpolator/decelerate_quad"
     android:duration="@integer/fade_duration" />
-<!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/animator/fade_out.xml -->
+<!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/animator/fade_out.xml -->

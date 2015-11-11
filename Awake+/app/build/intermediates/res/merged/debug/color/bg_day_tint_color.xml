@@ -18,4 +18,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_activated="true" android:color="@color/clock_white" />
     <item android:color="@android:color/transparent" />
-</selector><!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/color/bg_day_tint_color.xml -->
+</selector><!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/color/bg_day_tint_color.xml -->

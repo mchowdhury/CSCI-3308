@@ -17,4 +17,4 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <size android:width="1dp" />
     <solid android:color="@color/notification_divider" />
-</shape><!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/drawable/divider.xml -->
+</shape><!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/drawable/divider.xml -->

@@ -23,4 +23,4 @@
         android:valueTo="360"
         android:interpolator="@android:interpolator/fast_out_slow_in" />
 </set>
-<!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/animator/ic_stopwatch_animation_hand.xml -->
+<!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/animator/ic_stopwatch_animation_hand.xml -->
