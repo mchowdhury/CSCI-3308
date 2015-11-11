@@ -76,6 +76,8 @@ public final class Alarm implements Parcelable, ClockContract.AlarmsColumns {
 
     private static final int COLUMN_COUNT = DELETE_AFTER_USE_INDEX + 1;
 
+
+
     public static ContentValues createContentValues(Alarm alarm) {
         ContentValues values = new ContentValues(COLUMN_COUNT);
         if (alarm.id != INVALID_ID) {
@@ -207,6 +209,8 @@ public final class Alarm implements Parcelable, ClockContract.AlarmsColumns {
         return rowsUpdated == 1;
     }
 
+
+
     public static boolean deleteAlarm(ContentResolver contentResolver, long alarmId) {
         if (alarmId == INVALID_ID) return false;
         int deletedRows = contentResolver.delete(getUri(alarmId), "", null);
@@ -234,6 +238,7 @@ public final class Alarm implements Parcelable, ClockContract.AlarmsColumns {
     public String label;
     public Uri alert;
     public boolean deleteAfterUse;
+    public int totalPoints;
 
     // Creates a default alarm at the current time.
     public Alarm() {
@@ -247,8 +252,9 @@ public final class Alarm implements Parcelable, ClockContract.AlarmsColumns {
         this.vibrate = true;
         this.daysOfWeek = new DaysOfWeek(0);
         this.label = "";
-        this.alert = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_ALARM);
+     //   this.alert = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_ALARM);
         this.deleteAfterUse = false;
+        this.totalPoints = 0;
     }
 
     public Alarm(Cursor c) {
@@ -281,6 +287,19 @@ public final class Alarm implements Parcelable, ClockContract.AlarmsColumns {
         alert = (Uri) p.readParcelable(null);
         deleteAfterUse = p.readInt() == 1;
     }
+
+
+
+    public void addPoints(int toAdd)
+    {
+        this.totalPoints += toAdd;
+    }
+
+    public int getPoints()
+    {
+        return this.totalPoints;
+    }
+
 
     public String getLabelOrDefault(Context context) {
         if (label == null || label.length() == 0) {
