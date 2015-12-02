@@ -76,4 +76,14 @@
             android:accessibilityTraversalAfter="@+id/fab"
             android:contentDescription="@string/button_menu" />
     </FrameLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="0 Points"
+        android:id="@+id/points"
+        android:layout_gravity="left|bottom"
+        android:paddingLeft="15dip"
+        android:paddingBottom="30dip" />
 </FrameLayout>
