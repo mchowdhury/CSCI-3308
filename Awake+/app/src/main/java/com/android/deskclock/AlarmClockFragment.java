@@ -68,6 +68,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.android.deskclock.alarms.AlarmActivity;
 import com.android.deskclock.alarms.AlarmStateManager;
 import com.android.deskclock.events.Events;
 import com.android.deskclock.provider.Alarm;
@@ -125,6 +126,7 @@ public abstract class AlarmClockFragment extends DeskClockFragment implements
     private AlarmItemAdapter mAdapter;
     private View mEmptyView;
     private View mFooterView;
+    public TextView mPoints;
 
     private Bundle mRingtoneTitleCache; // Key: ringtone uri, value: ringtone title
     private ActionableToastBar mUndoBar;
@@ -242,6 +244,11 @@ public abstract class AlarmClockFragment extends DeskClockFragment implements
         mMainLayout = (FrameLayout) v.findViewById(R.id.main);
         mAlarmsList = (ListView) v.findViewById(R.id.alarms_list);
 
+        // Set the points to the TextView
+        mPoints = (TextView) v.findViewById(R.id.points);
+        String p = DeskClockApplication.getPointsString();
+        mPoints.setText(p);
+
         mUndoBar = (ActionableToastBar) v.findViewById(R.id.undo_bar);
         mUndoFrame = v.findViewById(R.id.undo_frame);
         mUndoFrame.setOnTouchListener(this);
@@ -299,6 +306,10 @@ public abstract class AlarmClockFragment extends DeskClockFragment implements
             setFabAppearance();
             setLeftRightButtonAppearance();
         }
+
+        // Set the points to the TextView
+        String p = DeskClockApplication.getPointsString();
+        mPoints.setText(p);
 
         // Check if another app asked us to create a blank new alarm.
         final Intent intent = getActivity().getIntent();

@@ -30,16 +30,21 @@ public class DeskClockApplication extends Application {
         Events.addEventTracker(new LogEventTracker(getApplicationContext()));
     }
 
-    private int points;
+    private static int points;
 
     public int getPoints()
     {
         return points;
     }
 
-    public void setPoints(int x)
+    public void addPoints(int x)
     {
-        points = x;
+        points += x;
+    }
+
+    public static String getPointsString()
+    {
+        return points + " " + "Points";
     }
 
 }

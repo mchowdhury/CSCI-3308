@@ -52,7 +52,9 @@ import android.widget.ImageView;
 import android.widget.TextClock;
 import android.widget.TextView;
 
+import com.android.deskclock.AlarmClockFragment;
 import com.android.deskclock.AnimatorUtils;
+import com.android.deskclock.DeskClockApplication;
 import com.android.deskclock.LogUtils;
 import com.android.deskclock.R;
 import com.android.deskclock.SettingsActivity;
@@ -79,7 +81,6 @@ public class AlarmActivity extends AppCompatActivity
 
     private static final float BUTTON_SCALE_DEFAULT = 0.7f;
     private static final int BUTTON_DRAWABLE_ALPHA_DEFAULT = 165;
-    public int Totalpoints;
 
     private final Handler mHandler = new Handler();
     private final BroadcastReceiver mReceiver = new BroadcastReceiver() {
@@ -349,9 +350,6 @@ public class AlarmActivity extends AppCompatActivity
             hintDismiss();
         }
     }
-    public int addpoints(){
-        return Totalpoints+=50;
-    }
 
     @Override
     public boolean onTouch(View view, MotionEvent motionEvent) {
@@ -466,12 +464,15 @@ public class AlarmActivity extends AppCompatActivity
         mAlarmHandled = true;
         LogUtils.v(LOGTAG, "Snoozed: %s", mAlarmInstance);
 
+        // Lose points on Snooze
+        ((DeskClockApplication) this.getApplication()).addPoints(-20);
+
         final int accentColor = Utils.obtainStyledColor(this, R.attr.colorAccent, Color.RED);
         setAnimatedFractions(1.0f /* snoozeFraction */, 0.0f /* dismissFraction */);
 
         final int snoozeMinutes = AlarmStateManager.getSnoozedMinutes(this);
         final String infoText = getResources().getQuantityString(
-                R.plurals.alarm_alert_snooze_duration, snoozeMinutes, snoozeMinutes);
+                R.plurals.alarm_alert_snooze_duration, snoozeMinutes, snoozeMinutes) + "\n\n-20 Points :(";
         final String accessibilityText = getResources().getQuantityString(
                 R.plurals.alarm_alert_snooze_set, snoozeMinutes, snoozeMinutes);
 
@@ -490,13 +491,14 @@ public class AlarmActivity extends AppCompatActivity
      * Perform dismiss animation and send dismiss intent.
      */
     private void dismiss() {
-        addpoints();
         mAlarmHandled = true;
         LogUtils.v(LOGTAG, "Dismissed: %s", mAlarmInstance);
 
-        setAnimatedFractions(0.0f /* snoozeFraction */, 1.0f /* dismissFraction */);
+        //Add points!!
+        ((DeskClockApplication) this.getApplication()).addPoints(50);
 
-        getAlertAnimator(mDismissButton, R.string.alarm_alert_off_text, null /* infoText */,
+        setAnimatedFractions(0.0f /* snoozeFraction */, 1.0f /* dismissFraction */);
+        getAlertAnimator(mDismissButton, R.string.alarm_alert_off_text, "\n+50 Points!!" /* infoText */,
                 getString(R.string.alarm_alert_off_text) /* accessibilityText */,
                 Color.WHITE, mCurrentHourColor).start();
 
@@ -628,8 +630,5 @@ public class AlarmActivity extends AppCompatActivity
         });
 
         return alertAnimator;
-    }
-    public int getTotalPoints(){
-        return Totalpoints;
     }
 }
