@@ -79,6 +79,7 @@ public class AlarmActivity extends AppCompatActivity
 
     private static final float BUTTON_SCALE_DEFAULT = 0.7f;
     private static final int BUTTON_DRAWABLE_ALPHA_DEFAULT = 165;
+    public int Totalpoints;
 
     private final Handler mHandler = new Handler();
     private final BroadcastReceiver mReceiver = new BroadcastReceiver() {
@@ -348,6 +349,9 @@ public class AlarmActivity extends AppCompatActivity
             hintDismiss();
         }
     }
+    public int addpoints(){
+        return Totalpoints+=50;
+    }
 
     @Override
     public boolean onTouch(View view, MotionEvent motionEvent) {
@@ -486,6 +490,7 @@ public class AlarmActivity extends AppCompatActivity
      * Perform dismiss animation and send dismiss intent.
      */
     private void dismiss() {
+        addpoints();
         mAlarmHandled = true;
         LogUtils.v(LOGTAG, "Dismissed: %s", mAlarmInstance);
 
@@ -623,5 +628,8 @@ public class AlarmActivity extends AppCompatActivity
         });
 
         return alertAnimator;
+    }
+    public int getTotalPoints(){
+        return Totalpoints;
     }
 }
