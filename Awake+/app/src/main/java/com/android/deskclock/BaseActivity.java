@@ -24,7 +24,8 @@ import android.content.IntentFilter;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-
+import android.view.View;
+import android.widget.Button;
 /**
  * Base activity class that changes with window's background color dynamically based on the
  * current hour.
@@ -125,5 +126,9 @@ public class BaseActivity extends AppCompatActivity {
                 mBackground.setColor(color);
             }
         }
+    }
+    public void buttonOnClick(View v){
+        Button button = (Button) v;
+        startActivity(new Intent(getApplicationContext(),RewardActivity.class));
     }
 }
