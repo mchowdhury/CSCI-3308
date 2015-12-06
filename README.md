@@ -11,9 +11,7 @@ The interface is user friendly and derived from the [Android Open Source Project
   </br>
 <h5>Download and Installation Instructions:</h5>
 
-
 1. Using a ADB or a terminal on your phone remove the Android DeskClock Application:
-
 <table class="wikitable">
 <tr>
 <th style="width: 500px; font-size: 125%;">ADB
