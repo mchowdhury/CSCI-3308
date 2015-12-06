@@ -32,16 +32,35 @@ public class DeskClockApplication extends Application {
 
     private static int points;
 
+    /**
+     * @file            DeckClockApplication.java
+     * @brief           Returns the number of points the user has accumulated
+     * @author          Jordan Peters
+     * @return          Integer
+     */
     public int getPoints()
     {
         return points;
     }
-	
+
+    /**
+     * @file           DeckClockApplication.java
+     * @brief          Adds x points to the user's point total
+     * @author         Jordan Peters
+     * @param x        Number of points to add
+     * @return         Void
+     */
     public void addPoints(int x)
     {
         points += x;
     }
-	
+
+    /**
+     * @file            DeckClockApplication.java
+     * @brief           Returns the number of points as a string
+     * @author          Mikhail Chowdhury
+     * @return          String
+     */
     public static String getPointsString()
     {
         return points + " " + "Points";
