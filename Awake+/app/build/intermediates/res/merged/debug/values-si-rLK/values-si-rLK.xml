@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string-array name="alarm_set">
     <item msgid="6450913786084215050">"ඇඟවීම මෙතැන් සිට ම්නිත්තු 1 කට අඩුවෙන් සකසා ඇත."</item>
@@ -21,7 +21,7 @@
     <item msgid="7809240121716151904">"මිනිත්තු 25"</item>
     <item msgid="4278641338024561333">"කවදාවත් නොවේ"</item>
   </string-array>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/array.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/array.xml -->
     <eat-comment/>
     <string-array name="cities_names">
     <item msgid="4653806289288974388">"අ<ns1:g id="SEPARATOR">=</ns1:g>අබිද්ජාන්"</item>
@@ -325,7 +325,7 @@
     <item msgid="7317049454800260290">"ක<ns1:g id="SEPARATOR">=</ns1:g>කුයිටෝ"</item>
     <item msgid="4524380876433343244">"ල<ns1:g id="SEPARATOR">=</ns1:g>ලුබ්ජනා"</item>
   </string-array>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string-array name="clock_style_entries">
     <item msgid="917900462224167608">"ප්‍රතිසමය"</item>
@@ -450,10 +450,10 @@
     <item msgid="3993530639455360921">"ඉරිදා"</item>
     <item msgid="8594709368683324282">"සඳුදා"</item>
   </string-array>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/dimens.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/dimens.xml -->
     <eat-comment/>
     <dimen name="day_button_font_size">16sp</dimen>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <plurals formatted="false" msgid="4539186407746763655" name="Nhours_description">
       <item quantity="one">පැය <ns1:g id="NUMBER">%d</ns1:g></item>
@@ -503,7 +503,7 @@
       <item quantity="one">මිනිත්තු</item>
       <item quantity="other">මිනිත්තු</item>
     </plurals>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-si-rLK/values-si-rLK.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-si-rLK/values-si-rLK.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ගෙදරට සංචාලනය කරන්න"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -524,7 +524,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"සමඟ බෙදාගන්න"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s සමඟ බෙදාගන්න"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"හකුළන්න"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string msgid="5976616107390962899" name="add_alarm">"ඇඟවීමක් එක් කරන්න"</string>
     <string msgid="3272183025444682500" name="alarm_alert_dismiss_now_text">"දැන් අස් කරන්න"</string>
@@ -579,20 +579,20 @@
     <string msgid="2194676418924016327" name="control_set_alarm">"ඇඟවීම සකසන්න"</string>
     <string msgid="3477418548382111184" name="custom_ringtone">"අභිරුචි රිගින් ටෝන්"</string>
     <string msgid="971998564991636532" name="day_concat">", "</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
     <eat-comment/>
     <string msgid="3968620852217927702" name="day_picker_description">"දින ජාලයකින් මාසය"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string msgid="5590025289805630372" name="default_label">"ඇඟවීම"</string>
     <string msgid="4549726190682964245" name="default_ringtone_setting_title">"සුපුරුදු රිංග්ටෝන්ස් සකසන්න"</string>
     <string msgid="5732434972457000541" name="delete">"මකන්න"</string>
     <string msgid="3457780990646206817" name="delete_alarm">"ඇඟවීම් මකන්න"</string>
     <string msgid="6578572637340860840" name="delete_alarm_confirm">"මෙම ඇඟවීම මකන්නද?"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
     <eat-comment/>
     <string msgid="6908431551612331381" name="deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> මකා දමන ලදි"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string msgid="1220848140260509437" name="deleted_message">"මකාදමන ලදී"</string>
     <string msgid="1841309486023845685" name="description_direction_both">"යළි සිහි කැඳවීමට වමට හෝ අස් කිරීමට දකුණට ස්වයිප් කරන්න"</string>
@@ -603,10 +603,10 @@
     <string msgid="5889378670229554109" name="disable_alarm">"ඇඟවීම් අක්‍රිය කරන්න"</string>
     <string msgid="7204593078688533541" name="dismiss_alarm">"එලාමය අස් කරන්න"</string>
     <string msgid="6509722361933858451" name="done">"හරි"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
     <eat-comment/>
     <string msgid="7007948707597430919" name="done_label">"අවසන්"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string msgid="1834599140632142536" name="enable_alarm">"ඇඟවීම සක්‍රිය කරන්න"</string>
     <string msgid="4100909974923444602" name="every_day">"සෑමදාම"</string>
@@ -618,19 +618,19 @@
     <string msgid="4436139365695453870" name="home_label">"නිවස"</string>
     <string msgid="9199730676287974501" name="home_time_zone">"නිවසේ කාල කලාපය"</string>
     <string msgid="807894493443834624" name="home_time_zone_title">"නිවසේ කාල කලාපය"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
     <eat-comment/>
     <string msgid="7586639618712934060" name="hour_picker_description">"පැය කවාකාර සර්පනය"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string msgid="3393478155635368097" name="hours_label">"පැ"</string>
     <string msgid="8652842524970971830" name="hours_label_description">"පැය"</string>
     <string msgid="2782334750243998633" name="invalid_time">"වලංගු නොවන වේලාව <ns1:g id="INVALID_HOUR">%d</ns1:g>:<ns1:g id="INVALID_MINUTES">%d</ns1:g> <ns1:g id="INVALID_AMPM">%s</ns1:g>"</string>
     <string msgid="3104567893212932487" name="invalid_timer_length">"වලංගු නොවන ටයිමර වේලාව"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
     <eat-comment/>
     <string msgid="2674929164900463786" name="item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> තෝරාගෙන ඇත"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string msgid="162189613902857319" name="label">"ලේබලය"</string>
     <string msgid="8736179296142915727" name="label_description">"ලේබලය"</string>
@@ -646,10 +646,10 @@
     <string msgid="1762931290495104106" name="menu_item_sort_by_name">"නමින් අනුපිළිවෙලට සකසන්න"</string>
     <string msgid="3396117705293574701" name="menu_stopwatch">"කාල ඝනකය"</string>
     <string msgid="6459070074762877114" name="menu_timer">"කාල ගණනය"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
     <eat-comment/>
     <string msgid="6024811202872705251" name="minute_picker_description">"මිනිත්තු කවාකාර සර්පනය"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string msgid="3568098128251438588" name="minutes_label">"මි"</string>
     <string msgid="965686733490357796" name="minutes_label_description">"මිනිත්තු"</string>
@@ -679,13 +679,13 @@
     <string msgid="7013450738357352801" name="screensaver_settings">"ඩ්‍රීම් සැකසුම්"</string>
     <string msgid="124655952824003246" name="seconds_label">"ත"</string>
     <string msgid="3821620053141299692" name="seconds_label_description">"තත්පර"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
     <eat-comment/>
     <string msgid="3973338219107019769" name="select_day">"මාසය සහ දිනය තෝරන්න"</string>
     <string msgid="7651068754188418859" name="select_hours">"පැය තෝරන්න"</string>
     <string msgid="8327182090226828481" name="select_minutes">"මිනිත්තු තෝරන්න"</string>
     <string msgid="2603330600102539372" name="select_year">"වසර තෝරන්න"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string msgid="3607479399424246605" name="selected_cities_label">"තෝරාගත් නගර"</string>
     <string msgid="9148359866152726808" name="set_alarm">"ඇඟවීම සකසන්න"</string>
@@ -694,10 +694,10 @@
     <string msgid="8605302849408279221" name="silent_alarm_summary">"නිහඬ"</string>
     <string msgid="2077577763821006919" name="slash">"/"</string>
     <string msgid="1097309861110780483" name="snooze_duration_title">"යළි සිහිකැඳවන දිග"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-si-rLK/values-si-rLK.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-si-rLK/values-si-rLK.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string msgid="6598258908106423672" name="stopwatch_already_running">"විරාම ඝටිකාව දැනටමත් ධාවනය වේ"</string>
     <string msgid="5713134605500796186" name="stopwatch_cant_be_reset_because_is_running">"විරාම ඝටිකාව ධාවනය වන නිසා එය යළි සැකසීමට නොහැකිය"</string>
@@ -760,10 +760,10 @@
     <string msgid="8648842975829470646" name="weekday_time_format_12_mode">"EEE, h:mm a"</string>
     <string msgid="152964494051478631" name="weekday_time_format_24_mode">"EEE, k:mm"</string>
     <string msgid="5911196322328341288" name="world_day_of_week_label">"/ <ns1:g id="LABEL">%s</ns1:g>"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-si-rLK/values-si-rLK.xml -->
     <eat-comment/>
     <string msgid="6963340404644587098" name="year_picker_description">"වසර ලැයිස්තුව"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-si-rLK/strings.xml -->
     <eat-comment/>
     <string msgid="7102083421938355017" name="zero">"0"</string>
 </resources>

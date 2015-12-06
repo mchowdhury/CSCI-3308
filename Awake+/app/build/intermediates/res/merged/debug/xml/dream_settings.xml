@@ -28,4 +28,4 @@
         android:summary="@string/night_mode_summary"
         android:defaultValue="true" />
 </PreferenceScreen>
-<!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/xml/dream_settings.xml -->
+<!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/xml/dream_settings.xml -->

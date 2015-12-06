@@ -22,4 +22,4 @@
     android:background="@drawable/notification_icon_bg"
     android:scaleType="center"
     android:contentDescription="@null" />
-<!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/layout/stopwatch_notification_icon.xml -->
+<!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/layout/stopwatch_notification_icon.xml -->

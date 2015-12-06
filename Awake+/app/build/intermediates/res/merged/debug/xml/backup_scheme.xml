@@ -17,4 +17,4 @@
 <full-backup-content>
     <include domain="database" path="alarms.db" />
     <include domain="sharedpref" path="com.android.deskclock_preferences.xml" />
-</full-backup-content><!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/xml/backup_scheme.xml -->
+</full-backup-content><!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/xml/backup_scheme.xml -->

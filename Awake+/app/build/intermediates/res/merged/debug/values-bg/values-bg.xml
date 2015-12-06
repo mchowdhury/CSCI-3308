@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string-array name="alarm_set">
     <item msgid="6450913786084215050">"Будилникът e настроен за след по-малко от минута."</item>
@@ -21,7 +21,7 @@
     <item msgid="7809240121716151904">"25 минути"</item>
     <item msgid="4278641338024561333">"Никога"</item>
   </string-array>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/array.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/array.xml -->
     <eat-comment/>
     <string-array name="cities_names">
     <item msgid="4653806289288974388">"А<ns1:g id="SEPARATOR">=</ns1:g>Абиджан"</item>
@@ -325,7 +325,7 @@
     <item msgid="7317049454800260290">"К<ns1:g id="SEPARATOR">=</ns1:g>Кито"</item>
     <item msgid="4524380876433343244">"Л<ns1:g id="SEPARATOR">=</ns1:g>Любляна"</item>
   </string-array>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string-array name="clock_style_entries">
     <item msgid="917900462224167608">"Аналогов"</item>
@@ -498,7 +498,7 @@
       <item quantity="other"> минути</item>
       <item quantity="one"> минута</item>
     </plurals>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-bg/values-bg.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Придвижване към „Начало“"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"„%1$s“ – %2$s"</string>
@@ -519,7 +519,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Споделяне със:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Споделяне със: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свиване"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string msgid="5976616107390962899" name="add_alarm">"Добавяне на будилник"</string>
     <string msgid="3272183025444682500" name="alarm_alert_dismiss_now_text">"Отхвърляне сега"</string>
@@ -574,20 +574,20 @@
     <string msgid="2194676418924016327" name="control_set_alarm">"Навиване на будилника"</string>
     <string msgid="3477418548382111184" name="custom_ringtone">"Персонализирана мелодия"</string>
     <string msgid="971998564991636532" name="day_concat">", "</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="3968620852217927702" name="day_picker_description">"Месечна таблица на дните"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string msgid="5590025289805630372" name="default_label">"Будилник"</string>
     <string msgid="4549726190682964245" name="default_ringtone_setting_title">"Задаване на стандартна мелодия"</string>
     <string msgid="5732434972457000541" name="delete">"Изтриване"</string>
     <string msgid="3457780990646206817" name="delete_alarm">"Изтриване на будилника"</string>
     <string msgid="6578572637340860840" name="delete_alarm_confirm">"Да се изтрие ли този будилник?"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="6908431551612331381" name="deleted_key">"Изтрихте <ns1:g id="KEY">%1$s</ns1:g>"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string msgid="1220848140260509437" name="deleted_message">"Изтрито"</string>
     <string msgid="1841309486023845685" name="description_direction_both">"Прекарайте пръст наляво, за да отложите, или надясно за отхвърляне"</string>
@@ -598,10 +598,10 @@
     <string msgid="5889378670229554109" name="disable_alarm">"Изключване на будилника"</string>
     <string msgid="7204593078688533541" name="dismiss_alarm">"Отхвърляне на будилника"</string>
     <string msgid="6509722361933858451" name="done">"Готово"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="7007948707597430919" name="done_label">"Готово"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string msgid="1834599140632142536" name="enable_alarm">"Включване на будилника"</string>
     <string msgid="4100909974923444602" name="every_day">"всеки ден"</string>
@@ -613,19 +613,19 @@
     <string msgid="4436139365695453870" name="home_label">"Местна"</string>
     <string msgid="9199730676287974501" name="home_time_zone">"Часова зона у дома"</string>
     <string msgid="807894493443834624" name="home_time_zone_title">"Часова зона у дома"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="7586639618712934060" name="hour_picker_description">"Кръгов плъзгач за часовете"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string msgid="3393478155635368097" name="hours_label">"ч"</string>
     <string msgid="8652842524970971830" name="hours_label_description">"часове"</string>
     <string msgid="2782334750243998633" name="invalid_time">"<ns1:g id="INVALID_HOUR">%d</ns1:g>:<ns1:g id="INVALID_MINUTES">%d</ns1:g> <ns1:g id="INVALID_AMPM">%s</ns1:g> е невалиден час"</string>
     <string msgid="3104567893212932487" name="invalid_timer_length">"Невалидна продължителност на таймера"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="2674929164900463786" name="item_is_selected">"Избрахте <ns1:g id="ITEM">%1$s</ns1:g>"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string msgid="162189613902857319" name="label">"Етикет"</string>
     <string msgid="8736179296142915727" name="label_description">"Етикет"</string>
@@ -641,10 +641,10 @@
     <string msgid="1762931290495104106" name="menu_item_sort_by_name">"Сортиране по име"</string>
     <string msgid="3396117705293574701" name="menu_stopwatch">"Хронометър"</string>
     <string msgid="6459070074762877114" name="menu_timer">"Таймер"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="6024811202872705251" name="minute_picker_description">"Кръгов плъзгач за минутите"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string msgid="3568098128251438588" name="minutes_label">"м"</string>
     <string msgid="965686733490357796" name="minutes_label_description">"минути"</string>
@@ -674,13 +674,13 @@
     <string msgid="7013450738357352801" name="screensaver_settings">"Настройки за „Сънища“"</string>
     <string msgid="124655952824003246" name="seconds_label">"с"</string>
     <string msgid="3821620053141299692" name="seconds_label_description">"секунди"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="3973338219107019769" name="select_day">"Изберете месец и ден"</string>
     <string msgid="7651068754188418859" name="select_hours">"Избиране на часове"</string>
     <string msgid="8327182090226828481" name="select_minutes">"Избиране на минути"</string>
     <string msgid="2603330600102539372" name="select_year">"Изберете година"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string msgid="3607479399424246605" name="selected_cities_label">"Избрани градове"</string>
     <string msgid="9148359866152726808" name="set_alarm">"Навиване на будилника"</string>
@@ -689,10 +689,10 @@
     <string msgid="8605302849408279221" name="silent_alarm_summary">"Тих режим"</string>
     <string msgid="2077577763821006919" name="slash">"/"</string>
     <string msgid="1097309861110780483" name="snooze_duration_title">"Продължителност на отлагането"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-bg/values-bg.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string msgid="6598258908106423672" name="stopwatch_already_running">"Хронометърът вече работи"</string>
     <string msgid="5713134605500796186" name="stopwatch_cant_be_reset_because_is_running">"Хронометърът не може да бъде нулиран, защото работи"</string>
@@ -755,10 +755,10 @@
     <string msgid="8648842975829470646" name="weekday_time_format_12_mode">"EEE, h:mm a"</string>
     <string msgid="152964494051478631" name="weekday_time_format_24_mode">"EEE, k:mm"</string>
     <string msgid="5911196322328341288" name="world_day_of_week_label">"/ <ns1:g id="LABEL">%s</ns1:g>"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="6963340404644587098" name="year_picker_description">"Списък на годините"</string>
-    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string msgid="7102083421938355017" name="zero">"0"</string>
 </resources>
