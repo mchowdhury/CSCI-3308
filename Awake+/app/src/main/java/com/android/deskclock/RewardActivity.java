@@ -21,6 +21,7 @@ public class RewardActivity extends Activity {
     * @brief 	Initializes the Points Button
     * @author 	Mikhail Chowdhury
     * @author 	Sam Skolnekovich
+    * @return 	Void
     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,6 +43,7 @@ public class RewardActivity extends Activity {
 	    * @author 	Sam Skolnekovich
 	    * @author 	Justin Schiller
 	    * @author 	Jordan Peters
+	    * @return	Void
 	    */
             @Override
             public void onClick(View v) {
