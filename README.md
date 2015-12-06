@@ -13,11 +13,12 @@ The interface is user friendly and derived from the [Android Open Source Project
 
 
 1. Using a ADB or a terminal on your phone remove the Android DeskClock Application:
-  
-  <h4><span class="mw-headline" id="ADB">ADB</span></h4>
+
 <table class="wikitable">
 <tr>
-<th style="width: 500px; font-size: 125%;"> /system apps
+<th style="width: 500px; font-size: 125%;">ADB
+</th>
+<th style="width: 500px; font-size: 125%;">Terminal (on device)
 </th>
 <tr>
 <td>
@@ -25,23 +26,15 @@ The interface is user friendly and derived from the [Android Open Source Project
 $ adb remount
 $ adb shell rm -f /system/app/DeskClock.apk</code>
 </pre>
-</td></tr></table>
-<p>
-</p>
-<h4><span class="mw-headline" id="Term_.28on_device.29">Terminal (on device)</span></h4>
-<table class="wikitable">
-<tr>
-<th style="width: 500px; font-size: 125%;"> /system apps
-</th>
-</tr>
-<tr>
+</td>
 <td>
 <pre><code>$ su
 $ mount -o rw,remount /system
 $ rm -f /system/app/DeskClock.apk
 </code>
 </pre>
-</td></tr></table>
+</td></tr>
+</table>
 </br>
 2. Reboot your phone.
 
