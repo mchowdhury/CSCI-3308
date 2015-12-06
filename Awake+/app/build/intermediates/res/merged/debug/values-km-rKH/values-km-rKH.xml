@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string-array name="alarm_set">
     <item msgid="6450913786084215050">"បាន​កំណត់​សំឡេង​រោទ៍​តិច​ជាង​១​នាទី គិត​ចាប់ពី​ឥឡូវ។"</item>
@@ -21,7 +21,7 @@
     <item msgid="7809240121716151904">"២៥ នាទី"</item>
     <item msgid="4278641338024561333">"កុំ"</item>
   </string-array>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/array.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/array.xml -->
     <eat-comment/>
     <string-array name="cities_names">
     <item msgid="4653806289288974388">"អ<ns1:g id="SEPARATOR">=</ns1:g>អាប៊ីហ្សង់"</item>
@@ -325,7 +325,7 @@
     <item msgid="7317049454800260290">"គ<ns1:g id="SEPARATOR">=</ns1:g>គីតូ"</item>
     <item msgid="4524380876433343244">"ជ<ns1:g id="SEPARATOR">=</ns1:g>ជូបហ្សាណា"</item>
   </string-array>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string-array name="clock_style_entries">
     <item msgid="917900462224167608">"អាណាឡូក"</item>
@@ -498,7 +498,7 @@
       <item quantity="other">នាទី</item>
       <item quantity="one">នាទី</item>
     </plurals>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-km-rKH/values-km-rKH.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-km-rKH/values-km-rKH.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"រកមើល​ទៅ​ដើម"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -519,7 +519,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ចែករំលែក​ជាមួយ"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"ចែករំលែក​ជាមួយ %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"បង្រួម"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string msgid="5976616107390962899" name="add_alarm">"បន្ថែម​សំឡេង​រោទ៍"</string>
     <string msgid="3272183025444682500" name="alarm_alert_dismiss_now_text">"បដិសេធ​ឥឡូវ"</string>
@@ -574,20 +574,20 @@
     <string msgid="2194676418924016327" name="control_set_alarm">"កំណត់​សំឡេង​រោទ៍"</string>
     <string msgid="3477418548382111184" name="custom_ringtone">"សំឡេងរោទិ៍ផ្ទាល់ខ្លួន"</string>
     <string msgid="971998564991636532" name="day_concat">", "</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
     <eat-comment/>
     <string msgid="3968620852217927702" name="day_picker_description">"ក្រឡាចត្រង្គ​ខែ​នៃ​ថ្ងៃ"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string msgid="5590025289805630372" name="default_label">"សំឡេង​រោទ៍"</string>
     <string msgid="4549726190682964245" name="default_ringtone_setting_title">"កំណត់​សំឡេង​រោទ៍​លំនាំដើម"</string>
     <string msgid="5732434972457000541" name="delete">"លុប"</string>
     <string msgid="3457780990646206817" name="delete_alarm">"លុប​សំឡេង​រោទ៍"</string>
     <string msgid="6578572637340860840" name="delete_alarm_confirm">"លុប​សំឡេង​រោទ៍​នេះ?"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
     <eat-comment/>
     <string msgid="6908431551612331381" name="deleted_key">"បាន​លុប <ns1:g id="KEY">%1$s</ns1:g>"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string msgid="1220848140260509437" name="deleted_message">"បាន​លុប"</string>
     <string msgid="1841309486023845685" name="description_direction_both">"អូសទៅឆ្វេងដើម្បីផ្អាក ឬទៅស្តាំដើម្បីបញ្ឈប់"</string>
@@ -598,10 +598,10 @@
     <string msgid="5889378670229554109" name="disable_alarm">"បិទ​សំឡេង​រោទ៍"</string>
     <string msgid="7204593078688533541" name="dismiss_alarm">"បដិសេធម៉ោងរោទិ៍"</string>
     <string msgid="6509722361933858451" name="done">"ធ្វើ​រួច"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
     <eat-comment/>
     <string msgid="7007948707597430919" name="done_label">"ធ្វើ​រួច"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string msgid="1834599140632142536" name="enable_alarm">"បើក​សំឡេង​រោទ៍"</string>
     <string msgid="4100909974923444602" name="every_day">"រាល់ថ្ងៃ"</string>
@@ -613,19 +613,19 @@
     <string msgid="4436139365695453870" name="home_label">"ដើម"</string>
     <string msgid="9199730676287974501" name="home_time_zone">"តំបន់​ពេលវេលា​ដើម"</string>
     <string msgid="807894493443834624" name="home_time_zone_title">"តំបន់​ពេលវេលា​ដើម"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
     <eat-comment/>
     <string msgid="7586639618712934060" name="hour_picker_description">"គ្រាប់​រំកិល​រង្វង់​ម៉ោង"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string msgid="3393478155635368097" name="hours_label">"ម៉ោង"</string>
     <string msgid="8652842524970971830" name="hours_label_description">"ម៉ោង"</string>
     <string msgid="2782334750243998633" name="invalid_time">"ម៉ោងមិនត្រឹមត្រូវ <ns1:g id="INVALID_HOUR">%d</ns1:g>:<ns1:g id="INVALID_MINUTES">%d</ns1:g> <ns1:g id="INVALID_AMPM">%s</ns1:g>"</string>
     <string msgid="3104567893212932487" name="invalid_timer_length">"រយៈពេលសម្រាប់ឧបករណ៍កំណត់ពេលមិនត្រឹមត្រូវ"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
     <eat-comment/>
     <string msgid="2674929164900463786" name="item_is_selected">"បាន​ជ្រើស <ns1:g id="ITEM">%1$s</ns1:g>"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string msgid="162189613902857319" name="label">"ស្លាក"</string>
     <string msgid="8736179296142915727" name="label_description">"ស្លាក"</string>
@@ -641,10 +641,10 @@
     <string msgid="1762931290495104106" name="menu_item_sort_by_name">"តម្រៀប​តាម​ឈ្មោះ"</string>
     <string msgid="3396117705293574701" name="menu_stopwatch">"នាឡិកា​បញ្ឈប់"</string>
     <string msgid="6459070074762877114" name="menu_timer">"កម្មវិធី​កំណត់​ពេល"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
     <eat-comment/>
     <string msgid="6024811202872705251" name="minute_picker_description">"គ្រាប់​រំកិល​រង្វង់​នាទី"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string msgid="3568098128251438588" name="minutes_label">"នាទី"</string>
     <string msgid="965686733490357796" name="minutes_label_description">"នាទី"</string>
@@ -674,13 +674,13 @@
     <string msgid="7013450738357352801" name="screensaver_settings">"ការ​កំណត់​ស្រមើ​​ស្រមៃ"</string>
     <string msgid="124655952824003246" name="seconds_label">"វិនាទី"</string>
     <string msgid="3821620053141299692" name="seconds_label_description">"វិនាទី"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
     <eat-comment/>
     <string msgid="3973338219107019769" name="select_day">"ជ្រើស​ខែ និង​ថ្ងៃ"</string>
     <string msgid="7651068754188418859" name="select_hours">"ជ្រើស​ម៉ោង"</string>
     <string msgid="8327182090226828481" name="select_minutes">"ជ្រើស​នាទី"</string>
     <string msgid="2603330600102539372" name="select_year">"ជ្រើស​ឆ្នាំ"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string msgid="3607479399424246605" name="selected_cities_label">"ទីក្រុង​បាន​ជ្រើស"</string>
     <string msgid="9148359866152726808" name="set_alarm">"កំណត់​សំឡេង​រោទ៍"</string>
@@ -689,10 +689,10 @@
     <string msgid="8605302849408279221" name="silent_alarm_summary">"ស្ងាត់"</string>
     <string msgid="2077577763821006919" name="slash">"/"</string>
     <string msgid="1097309861110780483" name="snooze_duration_title">"រយៈពេល​ផ្អាក"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-km-rKH/values-km-rKH.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-km-rKH/values-km-rKH.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string msgid="6598258908106423672" name="stopwatch_already_running">"នាឡិកាបញ្ឈប់កំពុងដំណើរហើយ"</string>
     <string msgid="5713134605500796186" name="stopwatch_cant_be_reset_because_is_running">"មិនអាចកំណត់នាឡិកាបញ្ឈប់ឡើងវិញបានទេព្រោះវាកំពុងដំណើរការ"</string>
@@ -755,10 +755,10 @@
     <string msgid="8648842975829470646" name="weekday_time_format_12_mode">"EEE, h:mm a"</string>
     <string msgid="152964494051478631" name="weekday_time_format_24_mode">"EEE, k:mm"</string>
     <string msgid="5911196322328341288" name="world_day_of_week_label">"/ <ns1:g id="LABEL">%s</ns1:g>"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/build/intermediates/exploded-aar/Awake+/android-opt-datetimepicker/unspecified/res/values-km-rKH/values-km-rKH.xml -->
     <eat-comment/>
     <string msgid="6963340404644587098" name="year_picker_description">"បញ្ជី​ឆ្នាំ"</string>
-    <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
+    <!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/values-km-rKH/strings.xml -->
     <eat-comment/>
     <string msgid="7102083421938355017" name="zero">"០"</string>
 </resources>

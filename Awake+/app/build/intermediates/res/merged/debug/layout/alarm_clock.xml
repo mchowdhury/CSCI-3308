@@ -75,6 +75,7 @@
             android:layout_height="wrap_content"
             android:accessibilityTraversalAfter="@+id/fab"
             android:contentDescription="@string/button_menu" />
+
     </FrameLayout>
 
     <TextView
@@ -86,5 +87,15 @@
         android:layout_gravity="left|bottom"
         android:paddingLeft="15dip"
         android:paddingBottom="30dip" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:text="New Button"
+        android:id="@+id/button"
+        android:layout_gravity="right|bottom"
+        android:onClick="buttonOnClick"
+        android:nestedScrollingEnabled="false" />
+
 </FrameLayout>
-<!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/layout/alarm_clock.xml -->
+<!-- From: file:/C:/Users/Jbp173/Desktop/CSCI-3308/Awake+/app/src/main/res/layout/alarm_clock.xml -->
