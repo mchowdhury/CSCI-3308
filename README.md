@@ -8,7 +8,7 @@ The interface is user friendly and derived from the [Android Open Source Project
   </br>
   <h5>Prerequisites:</h5>
   <p>Android device running Android 4.4+ with root access</p>
-
+  </br>
 <h5>Download and Installation Instructions:</h5>
 
 
@@ -36,9 +36,9 @@ $ rm -f /system/app/DeskClock.apk
 </td></tr>
 </table>
 </br>
+
 2. Reboot your phone.
 
 3. Connect you phone to your computer and click the green run arrow in Android Studio.
 
 4. The Awake+ should automatically launch on your phone.
-
