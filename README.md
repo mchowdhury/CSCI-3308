@@ -4,11 +4,13 @@ If you struggle waking up in the morning without hitting the snooze button or if
 
 The interface is user friendly and derived from the [Android Open Source Project's DeskClock](https://android.googlesource.com/platform/packages/apps/DeskClock/) application, so it won't require any new learning. Just download and start earning!
 
-Download and Installation Instructions:
+  <h5>Prerequisites:</h5>
+  <p>Android Phone running Android 4.4+ with root access</p>
 
-Prerequisites: Android Phone running Android 4.4+ with root access
+<h5>Download and Installation Instructions:</h5>
 
-1. Using a file explorer or terminal on your phone remove the Android DeskClock Application:
+
+1. Using a ADB or a terminal on your phone remove the Android DeskClock Application:
   
   <h4><span class="mw-headline" id="ADB">ADB</span></h4>
 <table class="wikitable">
@@ -22,7 +24,7 @@ $ adb remount
 $ adb shell rm -f /system/app/DeskClock.apk</code>
 </pre>
 </td></tr></table>
-<p><br />
+<p>
 </p>
 <h4><span class="mw-headline" id="Term_.28on_device.29">Terminal (on device)</span></h4>
 <table class="wikitable">
@@ -38,11 +40,10 @@ $ rm -f /system/app/DeskClock.apk
 </code>
 </pre>
 </td></tr></table>
-  
-
+</br>
 2. Reboot your phone.
 
-3. Connect you phone to your computer and hit the green run arrow in Android Studio.
+3. Connect you phone to your computer and click the green run arrow in Android Studio.
 
 4. The Awake+ should automatically launch on your phone.
 
