@@ -75,9 +75,10 @@
             android:layout_height="wrap_content"
             android:accessibilityTraversalAfter="@+id/fab"
             android:contentDescription="@string/button_menu" />
+
     </FrameLayout>
 
-    <TextView
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
@@ -86,5 +87,6 @@
         android:layout_gravity="left|bottom"
         android:paddingLeft="15dip"
         android:paddingBottom="30dip" />
+
 </FrameLayout>
 <!-- From: file:/C:/Users/Mikhail/Development/CSCI-3308/Awake+/app/src/main/res/layout/alarm_clock.xml -->

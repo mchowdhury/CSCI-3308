@@ -107,6 +107,11 @@
                 android:windowSoftInputMode="stateAlwaysHidden"
                 android:showOnLockScreen="true" />
 
+        <activity android:name=".RewardActivity"
+            android:theme="@style/Theme.AppCompat"
+            />
+
+
         <activity android:name="ScreensaverActivity"
                 android:excludeFromRecents="true"
                 android:taskAffinity=""

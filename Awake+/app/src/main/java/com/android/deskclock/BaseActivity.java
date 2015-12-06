@@ -127,8 +127,4 @@ public class BaseActivity extends AppCompatActivity {
             }
         }
     }
-    public void buttonOnClick(View v){
-        Button button = (Button) v;
-        startActivity(new Intent(getApplicationContext(),RewardActivity.class));
-    }
 }

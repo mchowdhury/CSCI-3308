@@ -48,6 +48,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.view.accessibility.AccessibilityManager;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextClock;
 import android.widget.TextView;
@@ -57,6 +58,7 @@ import com.android.deskclock.AnimatorUtils;
 import com.android.deskclock.DeskClockApplication;
 import com.android.deskclock.LogUtils;
 import com.android.deskclock.R;
+import com.android.deskclock.RewardActivity;
 import com.android.deskclock.SettingsActivity;
 import com.android.deskclock.Utils;
 import com.android.deskclock.events.Events;
@@ -465,14 +467,14 @@ public class AlarmActivity extends AppCompatActivity
         LogUtils.v(LOGTAG, "Snoozed: %s", mAlarmInstance);
 
         // Lose points on Snooze
-        ((DeskClockApplication) this.getApplication()).addPoints(-20);
+        ((DeskClockApplication) this.getApplication()).addPoints(25);
 
         final int accentColor = Utils.obtainStyledColor(this, R.attr.colorAccent, Color.RED);
         setAnimatedFractions(1.0f /* snoozeFraction */, 0.0f /* dismissFraction */);
 
         final int snoozeMinutes = AlarmStateManager.getSnoozedMinutes(this);
         final String infoText = getResources().getQuantityString(
-                R.plurals.alarm_alert_snooze_duration, snoozeMinutes, snoozeMinutes) + "\n\n-20 Points :(";
+                R.plurals.alarm_alert_snooze_duration, snoozeMinutes, snoozeMinutes) + "\n\n+25 Points :(";
         final String accessibilityText = getResources().getQuantityString(
                 R.plurals.alarm_alert_snooze_set, snoozeMinutes, snoozeMinutes);
 

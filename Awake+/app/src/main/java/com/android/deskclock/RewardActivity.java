@@ -1,9 +1,10 @@
 package com.android.deskclock;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class RewardActivity extends AppCompatActivity {
+public class RewardActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

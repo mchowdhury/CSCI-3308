@@ -58,6 +58,7 @@ import android.view.ViewTreeObserver;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.DecelerateInterpolator;
 import android.view.animation.Interpolator;
+import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.CursorAdapter;
@@ -126,6 +127,7 @@ public abstract class AlarmClockFragment extends DeskClockFragment implements
     private AlarmItemAdapter mAdapter;
     private View mEmptyView;
     private View mFooterView;
+    public Button mRewards;
     public TextView mPoints;
 
     private Bundle mRingtoneTitleCache; // Key: ringtone uri, value: ringtone title
@@ -186,6 +188,7 @@ public abstract class AlarmClockFragment extends DeskClockFragment implements
     public void onCreate(Bundle savedState) {
         super.onCreate(savedState);
         mCursorLoader = getLoaderManager().initLoader(0, null, this);
+
     }
 
     @Override
@@ -193,6 +196,7 @@ public abstract class AlarmClockFragment extends DeskClockFragment implements
             Bundle savedState) {
         // Inflate the layout for this fragment
         final View v = inflater.inflate(R.layout.alarm_clock, container, false);
+
 
         long expandedId = INVALID_ID;
         long[] repeatCheckedIds = null;
@@ -243,6 +247,17 @@ public abstract class AlarmClockFragment extends DeskClockFragment implements
 
         mMainLayout = (FrameLayout) v.findViewById(R.id.main);
         mAlarmsList = (ListView) v.findViewById(R.id.alarms_list);
+        mRewards = (Button) v.findViewById(R.id.points);
+        mRewards.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(getActivity(),RewardActivity.class));
+            }
+        });
+
+
 
         // Set the points to the TextView
         mPoints = (TextView) v.findViewById(R.id.points);
@@ -1559,4 +1574,6 @@ public abstract class AlarmClockFragment extends DeskClockFragment implements
         mLeftButton.setVisibility(View.INVISIBLE);
         mRightButton.setVisibility(View.INVISIBLE);
     }
+
+
 }
