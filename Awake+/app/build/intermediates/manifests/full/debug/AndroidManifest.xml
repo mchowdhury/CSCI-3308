@@ -38,6 +38,8 @@
     <!-- It is also required to display user-friendly names for custom ringtones in the UI. -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <application
         android:name="com.android.deskclock.DeskClockApplication"
         android:allowBackup="true"
@@ -402,6 +404,9 @@
                 <action android:name="share_stopwatch" />
             </intent-filter>
         </service>
+
+        <activity android:name="com.android.deskclock.RewardActivity" >
+        </activity>
     </application>
 
 </manifest>
