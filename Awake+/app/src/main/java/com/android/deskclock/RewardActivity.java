@@ -7,9 +7,21 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-
+/**
+* @file 	RewardActivity.java
+* @brief 	Implements the point to reward interface with buttons and screens
+* @author 	Mikhail Chowdhury
+* @author 	Sam Skolnekovich
+* @author 	Justin Schiller
+* @author 	Jordan Peters
+*/
 public class RewardActivity extends Activity {
-
+    /**
+    * @file 	RewardActivity.java
+    * @brief 	Initializes the Points Button
+    * @author 	Mikhail Chowdhury
+    * @author 	Sam Skolnekovich
+    */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,6 +35,14 @@ public class RewardActivity extends Activity {
         Button z = (Button) findViewById(R.id.rew);
 
         z.setOnClickListener(new View.OnClickListener() {
+	    /**
+	    * @file 	RewardActivity.java
+	    * @brief 	Initializes the Redeem Rewards Button
+	    * @author 	Mikhail Chowdhury
+	    * @author 	Sam Skolnekovich
+	    * @author 	Justin Schiller
+	    * @author 	Jordan Peters
+	    */
             @Override
             public void onClick(View v) {
                 // ((DeskClockApplication) this.getApplication()).addPoints(-((DeskClockApplication) this.getApplication()).getPoints());
