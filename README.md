@@ -37,6 +37,6 @@ $ rm -f /system/app/DeskClock.apk
 
 2. Reboot your phone.
 
-3. Connect you phone to your computer and click the green run arrow in Android Studio.
+3. Connect your phone to your computer and click the green run arrow in Android Studio.
 
-4. The Awake+ should automatically launch on your phone.
+4. The Awake+ app should automatically launch on your phone.
