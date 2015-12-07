@@ -4,7 +4,12 @@ If you struggle waking up in the morning without hitting the snooze button or if
 
 The interface is user friendly and derived from the [Android Open Source Project's DeskClock](https://android.googlesource.com/platform/packages/apps/DeskClock/) application, so it won't require any new learning. Just download and start earning!
   
-  
+The repository is organized with all pdf, text, and presentations in the home directory and all code in the Awake+ directory. The code that we modified is located in the Awake+ directory under Awake+/app/src/main/java/com/android/deskclock.
+
+The Documentation is located in the JavaDocs folder from the home directory.
+
+TO BUILD/RUN:
+
   </br>
   <h5>Prerequisites:</h5>
   <p>Android device running Android 4.4+ with root access</p>
